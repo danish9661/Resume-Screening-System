@@ -89,7 +89,9 @@ Since this is a full-stack application, you need to run the Backend and Frontend
     ```
     This will automatically open your web browser at http://localhost:8501
 
-
+## **Screenshot**
+![frontend](assets/SS1.jpeg)
+![result](assets/SSR.jpeg)
 
 ## **API Endpoints**
 The backend exposes the following Swagger documentation at
@@ -111,6 +113,8 @@ Analyzes a resume against a job description.\
   "resume_length": 450
 }
 ```
+#### ***ScreenShot***
+![fastapi](assets/SS-api.jpeg)
 
 ## **Future Improvements**
 * Database Integration: Use SQLite/PostgreSQL to save candidate profiles and scores.
