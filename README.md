@@ -91,6 +91,7 @@ Since this is a full-stack application, you need to run the Backend and Frontend
 
 ## **Screenshot**
 ![frontend](assets/SS1.jpeg)
+-----
 ![result](assets/SSR.jpeg)
 
 ## **API Endpoints**
